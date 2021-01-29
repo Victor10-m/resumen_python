@@ -1,0 +1,7 @@
+Estas abriendo el archivo victor.txt
+
+victor esta aqui
+
+en curso de python
+
+.
